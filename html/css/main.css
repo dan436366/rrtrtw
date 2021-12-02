@@ -1,0 +1,119 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-color: rgb(126, 177, 235);
+    font-family: 'Big Shoulders Text', cursive;
+    font-weight: 400;
+    font-size: 40px;
+}
+.first{
+    width: 400px;
+    position:relative;
+    left:-30%;
+    border-radius: 10px;
+    margin: 0 auto;
+    border: 3px solid rgb(116, 30, 41)
+}
+.nav{
+    padding: 0px 20px 20px 20px;
+}
+.btn{
+    color: white;
+    background-color: rgb(131, 37, 45);
+    font-size: 20px;
+    padding: 18px 30px;
+    display: flex;
+    justify-content: center;
+    position:relative;
+    left: 10.3%;
+    width: 300px;
+    border-radius: 25px;
+    bottom: 702px;
+    border: 3px solid rgb(255, 255, 255)
+}
+.btn:hover{
+    background-color: rgb(252, 56, 56);
+}
+.btn:active{
+    background-color: rgb(219, 81, 81);
+}
+.video{
+    display: flex;
+    bottom: 300px;
+}
+.list{
+    display: inline;
+    left: 400px;
+    top: -674px;
+    width: 400px;
+    height: 330px;
+    position:relative;
+    left: 1313px;
+    border-radius: 10px;
+    border: 3px solid rgb(116, 30, 41)   
+}
+.spisok{
+    display: inline-block;
+    left: 30%;
+    top: -337px;
+    width: 400px;
+    height: 330px;
+    position:relative;
+    border-radius: 10px;
+    margin: 0 auto;
+    border: 3px solid rgb(116, 30, 41);  
+}
+
+.btn-two{
+    color: white;
+    background-color: rgb(235, 121, 130);
+    font-size: 20px;
+    padding: 18px 30px;
+    display: flex;
+    justify-content: center;
+    position:relative;
+    left: 40.4%;
+    width: 300px;
+    border-radius: 25px;
+    bottom: 770px;
+    border: 3px solid rgb(255, 255, 255);
+}
+.btn-two:hover{
+    background-color: rgb(240, 106, 106);
+}
+.btn-two:active{
+    background-color: rgb(219, 81, 81);
+}
+h1{
+    text-shadow: 5px 5px 10px rgb(123, 117, 158);
+    letter-spacing: 2px;
+}
+ul{
+    color:rgb(53, 43, 121)
+}
+lh{
+    color: #000;
+    text-transform: uppercase;
+    justify-content: center;
+    padding: 20px
+}
+.btn-three{
+    color: white;
+    background-color: rgb(131, 37, 45);
+    font-size: 20px;
+    padding: 18px 30px;
+    display: flex;
+    justify-content: center;
+    position:relative;
+    left: 69.95%;
+    width: 300px;
+    border-radius: 25px;
+    bottom: 837px;
+    border: 3px solid rgb(255, 255, 255)
+}
+.btn-three:hover{
+    background-color: rgb(252, 56, 56);
+}
+.btn-three:active{
+    background-color: rgb(219, 81, 81);
+}
